@@ -1,0 +1,68 @@
+.yes {
+    background: url(images/yemenn.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+    
+
+
+}
+#name {
+    font-family:'helvetica neue';
+    font-size: 40px;
+    top: 0;
+    margin: 0px;
+
+
+}
+#logo {
+    width: 200px;
+    height: 52px;
+    padding-top: 15px;
+    
+
+}
+#heart {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-size: 60px;
+    padding-bottom: 0px;
+    margin: 0px;
+    font-weight: 550;
+    -webkit-animation: pulsate 3s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.4;
+    }
+}
+#name {
+    background-color: rgba(85, 10, 10, 0.671);
+    text-align: center;
+    top: 2px;
+    left: 50%;
+    margin: 0px;
+    position: sticky;
+    
+  }
+#human {
+
+text-decoration: underline rgba(134, 5, 5, 0.671);    
+font-size: 100px;
+margin: 0px;
+text-align: center;
+}
+a {
+    display: flex;
+    align-content: row-reverse;
+}
