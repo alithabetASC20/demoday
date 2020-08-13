@@ -1,11 +1,3 @@
-.yes {
-    background: url(image/George-Floyd-scaled.jpg)no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-    
 #name {
     font-family:'helvetica neue';
     font-size: 40px;
@@ -44,22 +36,84 @@
     }
 }
 #name {
-    background-color: rgba(85, 10, 10, 0.671);
+    background-color: rgba(153, 13, 13, 0.863);
     text-align: center;
     top: 2px;
     left: 50%;
     margin: 0px;
     position: sticky;
     
-  }
-/* #human {
-
-text-decoration: underline rgba(134, 5, 5, 0.671);    
-font-size: 100px;
-margin: 0px;
-text-align: center;
-} */
-a {
-    display: flex;
-    align-content: row-reverse;
 }
+body { 
+    background: url(images/AP_protest_2020.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #one {
+      background-color: rgba(255, 0, 0, 0.219);
+      color: black;
+  }
+  html { 
+    background: url(images/AP_protest_2020.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #civil {
+      font-size: 60px;
+      text-align: center;
+      color: black;
+      text-decoration: black underline;
+  }
+  #desc {
+      font-size: 35px;
+      width: 1850px;
+      text-align: center;
+      color: black;
+      font-weight: 600;
+  }
+  #sjw {
+      font-size: 50px;
+      border: solid 4px darkred;
+      color: rgb(0, 0, 0);
+      background-color: rgba(255, 255, 255, 0.247);
+  }
+  #desc1 {
+      font-size: 35px;
+      background-color: rgba(255, 255, 255, 0.308);
+      color: rgb(255, 255, 255);
+
+  }
+#two {
+    font-size: 40px;
+    list-style: none;
+    background-color: rgba(255, 0, 0, 0.212);
+    color: rgb(0, 0, 0);
+    font-weight: 550px;
+}
+#top {
+    font-size: 50px;
+    border: solid 4px rgb(114, 10, 10);
+    width: 150px;
+    color: rgb(0, 0, 0);
+
+}
+#cdesc {
+    font-size: 40px;
+    background-color: rgba(255, 255, 255, 0.342);
+    color: black;
+}
+#kids {
+    font-size: 40px;
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.247);
+    color: black;
+    font-weight: 550;
+}
+#mbk {
+    
+}
+  

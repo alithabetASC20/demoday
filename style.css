@@ -91,9 +91,9 @@ h3 {
   position: absolute;
   border: solid 4px rgb(133, 5, 5);
   background-color: rgba(133, 5, 5, 0.767);
-
     
 }
+
 #hum {
     width: 370px;
     height: 270px;
@@ -201,19 +201,83 @@ h3 {
 #us {
     text-align: center;
     margin: 0;
-    top: 265%;
+    top: 286%;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute; 
     min-width: 100%;  
-    background-color: rgb(117, 11, 11);
+ 
 }
 #bigus {
     font-size: 60px;
     text-decoration: underline rgb(0, 0, 0);
+    background-color: rgb(100, 8, 8);
+ 
 }
 #space {
-    background-color: rgba(255, 94, 0, 0.678);
+    background-color: rgba(156, 16, 16, 0.678);
     width: 100%;
     margin-bottom: 10px;
+}
+#usdes {
+    font-size: 35px;
+   background-color: rgb(95, 10, 10);
+}
+#names {
+    background-color: rgb(0, 0, 0);
+    
+}
+#ali {
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    align-items: center;
+    
+    
+}
+
+#Gab {
+    background-color: rgb(0, 0, 0);
+}
+#gabriel {
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    top: 82%;
+    left: 19%;
+    transform: translate(-50%, -50%);
+    position: absolute; 
+    
+    
+}
+#eli {
+    background-color: rgb(0, 0, 0);
+}
+
+#Elijah {
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    top: 82%;
+    left: 81%;
+    transform: translate(-50%, -50%);
+    position: absolute; 
+    padding: 0px;
+    margin: 0px;
+
+
+}
+#pop {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#links {
+    list-style: none;
+    font-weight: 550;
+    color: rgb(175, 19, 19);
+    font-size: 38px;
+    top: 92.8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;    
+    border: 2px solid; 
+    width: 500px;
+    background-color: rgb(255, 219, 219);
 }

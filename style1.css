@@ -82,14 +82,87 @@ a {
     left: 12%;
     transform: translate(152%, -20%);
     position: absolute;
-    border: solid rgb(0, 0, 0) 5px;
+    border: solid rgb(109, 4, 4) 5px;
 }
 #mercy {
-    border: solid rgb(77, 77, 77) 2px;
+    border: solid rgb(114, 3, 3) 2px;
 }
 #irc {
-    border: solid rgb(78, 78, 78) 2px;
+    border: solid rgb(117, 2, 2) 2px;
 }
 #relief {
-    border: solid rgb(65, 65, 65) 2px;
+    border: solid rgb(173, 5, 5) 2px;
+}
+
+
+
+#syria {
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline black;
+    
+}
+#sdes {
+    width: 1200px;
+    font-size: 35px;
+}
+#donatee {
+    list-style-type: none;
+    font-size: 35px;
+}
+#syriaa {
+    width: 600px;
+    float: right;
+    margin: 0;
+    top: 163%;
+    left: 18%;
+    transform: translate(152%, -20%);
+    position: absolute;
+    border: solid rgb(255, 0, 0) 5px;
+}
+#mercyy {
+    border: solid rgb(248, 55, 55) 2px;
+}
+#ircc {
+    border: solid rgb(255, 53, 53) 2px;
+}
+#relieff {
+    border: solid rgb(255, 53, 53) 2px;
+}
+
+
+
+
+#congo {
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline rgb(255, 255, 255);
+    
+}
+#cdes {
+    width: 1200px;
+    font-size: 35px;
+}
+#donateee {
+    list-style-type: none;
+    font-size: 35px;
+}
+#congoo {
+    width: 550px;
+    float: right;
+    margin: 0;
+    top: 283%;
+    left: 24.5%;
+    transform: translate(152%, -20%);
+    position: absolute;
+    border: solid rgb(255, 0, 0) 5px;
+}
+#mercyyy {
+    border: solid rgb(248, 55, 55) 2px;
+}
+#irccc {
+    border: solid rgb(255, 53, 53) 2px;
+}
+#reliefff {
+    border: solid rgb(255, 53, 53) 2px;
 }

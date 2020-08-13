@@ -1,0 +1,49 @@
+#name {
+    font-family:'helvetica neue';
+    font-size: 40px;
+    top: 0;
+
+
+}
+#logo {
+    width: 200px;
+    height: 52px;
+    padding-top: 15px;
+    
+
+}
+#heart {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-size: 60px;
+    padding-bottom: 0px;
+    font-weight: 550;
+    -webkit-animation: pulsate 3s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.4;
+    }
+}
+
+
+#name {
+  background-color: rgba(85, 10, 10, 0.671);
+  text-align: center;
+  top: 26px;
+  left: 50%;
+  position: sticky;
+  
+}
+ul {
+    font-size: 50px;
+    list-style: none;
+}
