@@ -1,9 +1,5 @@
 .yes {
-    background: url(images/yemenn.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: rgb(121, 13, 13);
   }
     
 
@@ -52,7 +48,6 @@
     top: 2px;
     left: 50%;
     margin: 0px;
-    position: sticky;
     
   }
 #human {
@@ -65,4 +60,36 @@ text-align: center;
 a {
     display: flex;
     align-content: row-reverse;
+}
+#yemen {
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    
+}
+#ydes {
+    width: 1200px;
+    font-size: 30px;
+}
+#donate {
+    list-style-type: none;
+    font-size: 35px;
+}
+#yemenn {
+    width: 650px;
+    float: right;
+    margin: 0;
+    top: 40%;
+    left: 12%;
+    transform: translate(152%, -20%);
+    position: absolute;
+    border: solid rgb(0, 0, 0) 5px;
+}
+#mercy {
+    border: solid rgb(77, 77, 77) 2px;
+}
+#irc {
+    border: solid rgb(78, 78, 78) 2px;
+}
+#relief {
+    border: solid rgb(65, 65, 65) 2px;
 }
